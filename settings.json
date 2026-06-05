@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "HAKLA SHARUKH KHAN",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Beargamerz.aternos.me",
+    "port": 39267,
     "version": "1.20.1",
     "try-creative": false
   },
